@@ -5,9 +5,9 @@
   --cor-destaque: #e2ed14;
   --cor-gradiente-preto: linear-gradient(
     113deg,
-    #bd8f8f 0%,
-    #3d535e 44.96%,
-    #7192b3 100%
+    #91cff8 0%,
+    #40bdfc 44.96%,
+    #3596f7 100%
   );
 }
 
@@ -57,7 +57,7 @@ h1 {
 }
 
 #entrada-de-texto::placeholder {
-  color: #828282;
+  color: #07c1f0;
   font-size: 2rem;
   font-weight: 400;
   line-height: normal;
